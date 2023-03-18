@@ -1,0 +1,14 @@
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\bin\Debug\chromedriver.exe
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\bin\Debug\ConsoleApp16.exe
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\bin\Debug\WebDriver.dll
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\obj\Debug\YouTubeParser.csproj.AssemblyReference.cache
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\obj\Debug\YouTubeParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\obj\Debug\YouTubeParser.csproj.CoreCompileInputs.cache
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\obj\Debug\YouTubeParser.csproj.CopyComplete
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\obj\Debug\ConsoleApp16.exe
+C:\Users\Саймон\Desktop\projects\ConsoleApp16\obj\Debug\ConsoleApp16.pdb
